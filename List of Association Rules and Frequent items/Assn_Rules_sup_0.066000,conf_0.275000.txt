@@ -1,0 +1,2 @@
+Rule[1]: ('whole milk',)                :----->     ('other vegetables',) , 0.29288
+Rule[2]: ('other vegetables',)          :----->     ('whole milk',) , 0.38676

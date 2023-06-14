@@ -1,0 +1,28 @@
+Rule[1]: ('whole milk',)                :----->     ('pastry',) , 0.13012
+Rule[2]: ('whole milk',)                :----->     ('bottled water',) , 0.13450
+Rule[3]: ('whole milk',)                :----->     ('soda',) , 0.15678
+Rule[4]: ('whole milk',)                :----->     ('tropical fruit',) , 0.16554
+Rule[5]: ('other vegetables',)          :----->     ('tropical fruit',) , 0.18550
+Rule[6]: ('rolls/buns',)                :----->     ('yogurt',) , 0.18684
+Rule[7]: ('whole milk',)                :----->     ('root vegetables',) , 0.19140
+Rule[8]: ('rolls/buns',)                :----->     ('soda',) , 0.20840
+Rule[9]: ('whole milk',)                :----->     ('yogurt',) , 0.21926
+Rule[10]: ('soda',)                     :----->     ('rolls/buns',) , 0.21983
+Rule[11]: ('other vegetables',)         :----->     ('rolls/buns',) , 0.22018
+Rule[12]: ('whole milk',)               :----->     ('rolls/buns',) , 0.22165
+Rule[13]: ('other vegetables',)         :----->     ('yogurt',) , 0.22438
+Rule[14]: ('soda',)                     :----->     ('whole milk',) , 0.22974
+Rule[15]: ('rolls/buns',)               :----->     ('other vegetables',) , 0.23162
+Rule[16]: ('other vegetables',)         :----->     ('root vegetables',) , 0.24488
+Rule[17]: ('yogurt',)                   :----->     ('rolls/buns',) , 0.24636
+Rule[18]: ('whole milk',)               :----->     ('other vegetables',) , 0.29288
+Rule[19]: ('rolls/buns',)               :----->     ('whole milk',) , 0.30790
+Rule[20]: ('bottled water',)            :----->     ('whole milk',) , 0.31095
+Rule[21]: ('yogurt',)                   :----->     ('other vegetables',) , 0.31122
+Rule[22]: ('tropical fruit',)           :----->     ('other vegetables',) , 0.34205
+Rule[23]: ('pastry',)                   :----->     ('whole milk',) , 0.37371
+Rule[24]: ('other vegetables',)         :----->     ('whole milk',) , 0.38676
+Rule[25]: ('yogurt',)                   :----->     ('whole milk',) , 0.40160
+Rule[26]: ('tropical fruit',)           :----->     ('whole milk',) , 0.40310
+Rule[27]: ('root vegetables',)          :----->     ('other vegetables',) , 0.43470
+Rule[28]: ('root vegetables',)          :----->     ('whole milk',) , 0.44869

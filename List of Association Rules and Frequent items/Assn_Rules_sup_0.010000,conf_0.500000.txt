@@ -1,0 +1,15 @@
+Rule[1]: ('yogurt', 'root vegetables')  :----->     ('other vegetables',) , 0.50000
+Rule[2]: ('rolls/buns', 'root vegetables') :----->     ('other vegetables',) , 0.50209
+Rule[3]: ('other vegetables', 'whipped/sour cream') :----->     ('whole milk',) , 0.50704
+Rule[4]: ('yogurt', 'other vegetables') :----->     ('whole milk',) , 0.51288
+Rule[5]: ('tropical fruit', 'yogurt')   :----->     ('whole milk',) , 0.51736
+Rule[6]: ('pip fruit', 'other vegetables') :----->     ('whole milk',) , 0.51751
+Rule[7]: ('rolls/buns', 'root vegetables') :----->     ('whole milk',) , 0.52301
+Rule[8]: ('yogurt', 'whipped/sour cream') :----->     ('whole milk',) , 0.52451
+Rule[9]: ('other vegetables', 'domestic eggs') :----->     ('whole milk',) , 0.55251
+Rule[10]: ('yogurt', 'root vegetables') :----->     ('whole milk',) , 0.56299
+Rule[11]: ('tropical fruit', 'root vegetables') :----->     ('whole milk',) , 0.57005
+Rule[12]: ('butter', 'other vegetables') :----->     ('whole milk',) , 0.57360
+Rule[13]: ('yogurt', 'curd')            :----->     ('whole milk',) , 0.58235
+Rule[14]: ('tropical fruit', 'root vegetables') :----->     ('other vegetables',) , 0.58454
+Rule[15]: ('citrus fruit', 'root vegetables') :----->     ('other vegetables',) , 0.58621

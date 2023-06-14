@@ -1,0 +1,55 @@
+['newspapers'] 785
+['canned beer'] 764
+['beef'] 516
+['chocolate'] 488
+['margarine'] 576
+['bottled beer'] 792
+['pastry'] 875
+['chicken'] 422
+['yogurt'] 1372
+['whole milk'] 2513
+['long life bakery product'] 368
+['hamburger meat'] 327
+['soda'] 1715
+['white bread'] 414
+['tropical fruit'] 1032
+['shopping bags'] 969
+['cream cheese'] 390
+['pork'] 567
+['UHT-milk'] 329
+['whipped/sour cream'] 705
+['salty snack'] 372
+['bottled water'] 1087
+['root vegetables'] 1072
+['frankfurter'] 580
+['frozen vegetables'] 473
+['domestic eggs'] 624
+['butter'] 545
+['sausage'] 924
+['berries'] 327
+['dessert'] 365
+['brown bread'] 638
+['rolls/buns'] 1809
+['pip fruit'] 744
+['fruit/vegetable juice'] 711
+['sugar'] 333
+['curd'] 524
+['napkins'] 515
+['citrus fruit'] 814
+['waffles'] 378
+['other vegetables'] 1903
+['coffee'] 571
+['other vegetables', 'rolls/buns'] 419
+['yogurt', 'rolls/buns'] 338
+['yogurt', 'whole milk'] 551
+['other vegetables', 'root vegetables'] 466
+['tropical fruit', 'other vegetables'] 353
+['rolls/buns', 'soda'] 377
+['whole milk', 'tropical fruit'] 416
+['whole milk', 'bottled water'] 338
+['yogurt', 'other vegetables'] 427
+['whole milk', 'root vegetables'] 481
+['whole milk', 'soda'] 394
+['whole milk', 'pastry'] 327
+['whole milk', 'other vegetables'] 736
+['whole milk', 'rolls/buns'] 557

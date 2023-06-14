@@ -1,0 +1,3 @@
+Rule[1]: ('rolls/buns',)                :----->     ('whole milk',) , 0.30790
+Rule[2]: ('other vegetables',)          :----->     ('whole milk',) , 0.38676
+Rule[3]: ('yogurt',)                    :----->     ('whole milk',) , 0.40160
