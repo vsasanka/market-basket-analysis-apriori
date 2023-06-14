@@ -1,7 +1,7 @@
 # market-basket-analysis-apriori
 Analyzed the sales data of a supermarket and redefined the arrangement of supplies in a store using the apriori algorithm
 
-#Instructions
+**Instructions**
 1. Download the files
 2. Unzip
 3. Copy the 'groceries.csv' file in the extracted folder.
